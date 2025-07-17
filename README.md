@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anvar from Houston, Texas
-- 👀 I’m interested in coding, digital music composition (MDM), photography, drone
+- 👀 I’m interested in coding, digital music composition (MDM), photography, drones
 - 🌱 I’m currently learning NX and federated modules
 - 💞️ I’m looking to collaborate on development and my hobbies
 - 📫 How to reach me here or by ahbapaka@hotmail.com
